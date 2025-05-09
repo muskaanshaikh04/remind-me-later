@@ -76,7 +76,7 @@ The API is designed with extensibility in mind, allowing for easy addition of ne
   "time": "09:00:00",
   "message": "Team meeting with marketing",
   "reminder_type": "SMS",
-  "recipient": "+1234567890"
+  "recipient": "1234567890"
 }
 ```
 
